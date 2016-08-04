@@ -1,0 +1,37 @@
+_repo: The-Man-of-the-Forest_3457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: '"Accidentally overhearing a plot to kidnap the niece of a prominent
+  rancher as she arrives from the East, Milt Dale springs into action. He comes out
+  of his splendid isolation to protect Helen and her kid sister, Bo. Leading them
+  away from manmade danger, exposing them to unaccustomed rigor on mountain trails,
+  Dale imparts his rugged philosophy. Beyond the forest, Beasley and Snake Anson are
+  still waiting to carry out their evil plot"--Amazon.'
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Western
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Man of the Forest
+url: http://www.gutenberg.org/ebooks/3457
