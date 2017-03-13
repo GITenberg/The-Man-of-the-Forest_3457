@@ -1,5 +1,8 @@
 _repo: The-Man-of-the-Forest_3457
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -17,6 +20,8 @@ description: '"Accidentally overhearing a plot to kidnap the niece of a prominen
   away from manmade danger, exposing them to unaccustomed rigor on mountain trails,
   Dale imparts his rugged philosophy. Beyond the forest, Beasley and Snake Anson are
   still waiting to carry out their evil plot"--Amazon.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3457#The-Man-of-the-Forest
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Western
